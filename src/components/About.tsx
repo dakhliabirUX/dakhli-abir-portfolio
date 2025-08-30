@@ -21,6 +21,7 @@ const About: React.FC = () => {
       { threshold: 0.2 }
     );
 
+    
     if (aboutRef.current) {
       observer.observe(aboutRef.current);
     }
