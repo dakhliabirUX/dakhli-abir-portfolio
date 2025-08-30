@@ -30,7 +30,7 @@ const Header: React.FC = () => {
     >
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-2xl font-bold text-white">
+          <div className="text-2xl font-bold text-black">
             Portfolio
           </div>
 
@@ -40,7 +40,7 @@ const Header: React.FC = () => {
               <button
                 key={item}
                 onClick={() => scrollToSection(item.toLowerCase().replace(' ', ''))}
-                className="text-gray-300 hover:text-white transition-colors duration-200 font-medium"
+                className="text-black-300 hover:text-white transition-colors duration-200 font-medium"
               >
                 {item}
               </button>
