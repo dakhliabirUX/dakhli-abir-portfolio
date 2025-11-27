@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
             <div className="w-48 h-48 md:w-64 md:h-64 mx-auto relative">
               <div className="absolute inset-0 bg-gradient-to-br from-orange-400 to-pink-500 rounded-full animate-pulse"></div>
               <img 
-                src="https://media.licdn.com/dms/image/v2/C4E03AQH5MqPneLRR8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652174587001?e=1759363200&v=beta&t=k3FnSd6XWFkGKE6DFS_XUR_BTxbazVGeyUR2VSzysJE" 
+                src="https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/494304558_2087652675085623_8592835193085271597_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=vX0QkwCwqjQQ7kNvwHOjRck&_nc_oc=AdmN4J-g1bUNwHbjWnFEiKSt-C8blV1wQWF_hwF6OUECMrw3767PuEJsJ6JkybUTH6Q&_nc_zt=23&_nc_ht=scontent.ftun20-1.fna&_nc_gid=zn7OYV08n8-O5ezDGEvBww&oh=00_AfhgNI1bwocvVQ23qbT6lBX_LVaxJZGRbnqQY5w8etD2Xw&oe=692D5161" 
                 alt="Designer Profile"
                 className="w-full h-full object-cover rounded-full border-4 border-white shadow-2xl relative z-10 animate-float"
               />
