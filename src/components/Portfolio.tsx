@@ -24,7 +24,7 @@ const Portfolio: React.FC = () => {
     {
       title: 'Beekeeper tech',
       description: 'All-in-One Hive Management App for Modern Beekeeping',
-      image: 'https://scontent.ftun15-1.fna.fbcdn.net/v/t39.30808-6/475397687_1148046723989627_2234011722103837849_n.png?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WRWe4JAtT7MQ7kNvwH6_1q3&_nc_oc=AdlVH4FBfbrmjieKp-_NkJ58u3sQTv_HlbgrMa8Eq6KuT6JZH1w3QpC5XkT1MZ19w4k&_nc_zt=23&_nc_ht=scontent.ftun15-1.fna&_nc_gid=DxJ4XO8nHSeYNHAqWhYoPw&oh=00_AfUfQBR36-fhOAEI8n92aXv5giHnG2Op94zWdAtLP0jvLg&oe=68B8D614',
+      image: 'https://static.wixstatic.com/media/d8a8ba_eaf31eac4a3c49e99ac50ce2d30f4220~mv2.png/v1/fill/w_645,h_687,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Enda%20X%20beekeeper%20tech.png',
       tags: ['Mobile Banking', 'Security UX', 'Accessibility', 'User Testing'],
       liveUrl: '#',
       caseStudyUrl: '#'
@@ -40,7 +40,7 @@ const Portfolio: React.FC = () => {
     {
       title: 'Petsigo',
       description: 'Providing digital pet health insurance.',
-      image: 'https://scontent.ftun15-1.fna.fbcdn.net/v/t39.30808-6/476806863_592001487085340_4609135006993687733_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Yg4uZmovzIMQ7kNvwHcQRE0&_nc_oc=Adkp6YLeHsW4oS_yTloykuDl3fYuMFe5U4-KJgE0ZjIxxPzCZ-XnBC1yqRKMr8P65U8&_nc_zt=23&_nc_ht=scontent.ftun15-1.fna&_nc_gid=O2fiCEgod4pWF3Vmmh6KFw&oh=00_AfX5MF6WqwWYbe34QoffdAGM29s9pIpnVH5TSAAm8PkQ3A&oe=68B8AB57',
+      image: 'https://cdn1.vc4a.com/media/2023/07/333562541_987330092254411_956454218500713593_n-900x322.png',
       tags: ['Brand Design', 'Logo Design', 'Typography', 'Style Guide'],
       liveUrl: '#',
       caseStudyUrl: '#'
@@ -56,7 +56,7 @@ const Portfolio: React.FC = () => {
     {
       title: 'WeCode Land',
       description: 'Designing website',
-      image: 'https://scontent.ftun15-1.fna.fbcdn.net/v/t39.30808-6/467851943_953129573339542_6846900422743592364_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=gLcPcBZ2PRgQ7kNvwFlVE-M&_nc_oc=Adk32jxPfsqZ0E25SyOjhOwexyJmzpIbJxdwZvG5grNxETGXCd0kpEukSJ-sg2z7slE&_nc_zt=23&_nc_ht=scontent.ftun15-1.fna&_nc_gid=IsWbtFPw8-VwzOvCMHJbYQ&oh=00_AfXgUDUWOaTvzRA4W_oCxGWyGaLAFNXO0xT29p3oVeodgw&oe=68B8C7D2',
+      image: 'https://kapitalis.com/tunisie/wp-content/uploads/2017/04/WeCode-Youth-Decides.jpg',
       tags: ['UX/UI', 'Brand Design', 'User Research', 'User Testing'],
       liveUrl: '#',
       caseStudyUrl: '#'
